@@ -63,4 +63,4 @@ Gained key JavaScript skills through this challenge:
 - Preventing divide-by-zero errors
 - Understanding how real-world tools use calculator logic
 
-🎉 Applying my knowledge and earning a **perfect quiz score** is the best way to complete a lesson!
+🎉 Applying knowledge and earning a **perfect quiz score** is the best way to complete a lesson!
